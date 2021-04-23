@@ -13,7 +13,7 @@ Blacklisting yourself from xResolver will remove your Gamertag/Username and IP a
 
 Additional blacklisting measures should be put in place to protect yourself against other IP pullers. Microsoft Instructed the following:
 
-    Use a VPN to mask your real IP address.
+    Use a VPN to mask your real IP address. https://lancremasteredpcps.com/network-optimization-for-xbox-and-ps/#elementor-toc__heading-anchor-23
     Contact your ISP to change your IP address.
     Avoid Suspicious people and don’t join random parties in order for your IP to remain safe from their database.
 
