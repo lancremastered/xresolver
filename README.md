@@ -1,5 +1,5 @@
 # xresolver
-<h1>xResolver - Xbox/PSN Resolver and Gamertag IP Puller</h1>
+<h1>xResolver - Xbox Resolver and PSN Resolver with Gamertag IP Puller</h1>
 
 An IP/DNS/Gamertag Resolver is a server or database on the Internet that converts domain names and Gamertags into IP addresses, and vice versa. xResolver is an online website designed to resolve Microsoft’s Xbox and Sony’s Playstation Gamertags and usernames into a readable IP format.
 
